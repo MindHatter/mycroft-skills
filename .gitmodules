@@ -139,3 +139,6 @@
 [submodule "ru-timer"]
 	path = ru-timer
 	url = https://github.com/einstalek/ru-timer
+[submodule "skill-installer"]
+	path = skill-installer
+	url = https://github.com/mmarashan/skill-installer
