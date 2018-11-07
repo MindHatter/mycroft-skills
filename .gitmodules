@@ -24,7 +24,7 @@
 	url = https://github.com/mycroftai/skill-hello-world.git
 [submodule "mycroft-installer"]
 	path = skill-installer
-	url = https://github.com/mycroftai/skill-installer.git
+	url = https://github.com/mmarashan/skill-installer.git
 [submodule "mycroft-ip"]
 	path = skill-ip
 	url = https://github.com/mycroftai/skill-ip.git
