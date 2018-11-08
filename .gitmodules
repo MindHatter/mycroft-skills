@@ -142,3 +142,6 @@
 [submodule "skill-installer"]
 	path = skill-installer
 	url = https://github.com/mmarashan/skill-installer
+[submodule "ru-weather"]
+	path = ru-weather
+	url = https://github.com/einstalek/ru-weather
