@@ -1,6 +1,6 @@
 [submodule "fallback-unknown"]
 	path = fallback-unknown
-	url = https://github.com/mycroftai/fallback-unknown.git
+	url = https://github.com/mmarashan/fallback-unknown.git
 [submodule "fallback-wolfram-alpha"]
 	path = fallback-wolfram-alpha
 	url = https://github.com/mycroftai/fallback-wolfram-alpha.git
