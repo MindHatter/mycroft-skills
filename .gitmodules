@@ -127,3 +127,21 @@
 [submodule "fallback-unknown"]
 	path = fallback-unknown
 	url = https://github.com/mmarashan/fallback-unknown
+[submodule "skill-pairing"]
+	path = skill-pairing
+	url = git://github.com/mmarashan/skill-pairing.git
+[submodule "skill-personal"]
+	path = skill-personal
+	url = git://github.com/einstalek/ru-personal.git
+[submodule "skill-joke"]
+	path = skill-joke
+	url = git://github.com/einstalek/ru-joke.git
+[submodule "skill-news"]
+	path = skill-news
+	url = git://github.com/einstalek/ru-news.git
+[submodule "skill-stop"]
+	path = skill-stop
+	url = git://github.com/einstalek/ru-stop.git
+[submodule "skill-wiki"]
+	path = skill-wiki
+	url = git://github.com/einstalek/ru-wiki.git
