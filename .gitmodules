@@ -145,3 +145,6 @@
 [submodule "mycroft-personal"]
 	path = mycroft-personal
 	url = git://github.com/einstalek/ru-personal.git
+[submodule "mycroft-installer"]
+	path = mycroft-installer
+	url = git://github.com/mmarashan/skill-installer.git
