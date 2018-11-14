@@ -127,9 +127,6 @@
 [submodule "fallback-unknown"]
 	path = fallback-unknown
 	url = https://github.com/mmarashan/fallback-unknown
-[submodule "skill-pairing"]
-	path = skill-pairing
-	url = git://github.com/mmarashan/skill-pairing.git
 [submodule "skill-personal"]
 	path = skill-personal
 	url = git://github.com/einstalek/ru-personal.git
