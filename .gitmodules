@@ -22,9 +22,6 @@
 [submodule "mycroft-ip"]
 	path = skill-ip
 	url = https://github.com/mycroftai/skill-ip.git
-[submodule "mycroft-joke"]
-	path = skill-joke
-	url = https://github.com/mycroftai/skill-joke.git
 [submodule "mycroft-mark-1-demo"]
 	path = skill-mark1-demo
 	url = https://github.com/mycroftai/skill-mark1-demo
@@ -34,15 +31,6 @@
 [submodule "mycroft-naptime"]
 	path = skill-naptime
 	url = https://github.com/mycroftai/skill-naptime.git
-[submodule "mycroft-npr-news"]
-	path = skill-npr-news
-	url = https://github.com/mycroftai/skill-npr-news.git
-[submodule "mycroft-pairing"]
-	path = skill-pairing
-	url = https://github.com/mycroftai/skill-pairing.git
-[submodule "mycroft-personal"]
-	path = skill-personal
-	url = https://github.com/mycroftai/skill-personal.git
 [submodule "mycroft-playback-control"]
 	path = skill-playback-control
 	url = https://github.com/mycroftai/skill-playback-control.git
@@ -64,9 +52,6 @@
 [submodule "mycroft-stock"]
 	path = skill-stock
 	url = https://github.com/mycroftai/skill-stock.git
-[submodule "mycroft-stop"]
-	path = skill-stop
-	url = https://github.com/mycroftai/skill-stop.git
 [submodule "mycroft-support-helper"]
 	path = skill-support
 	url = https://github.com/mycroftai/skill-support.git
@@ -79,9 +64,6 @@
 [submodule "mycroft-version-checker"]
 	path = skill-version-checker
 	url = https://github.com/mycroftai/skill-version-checker.git
-[submodule "mycroft-wiki"]
-	path = skill-wiki
-	url = https://github.com/mycroftai/skill-wiki.git
 [submodule "mycroft-volume"]
 	path = skill-volume
 	url = https://github.com/mycroftai/skill-volume.git
