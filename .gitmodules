@@ -148,3 +148,9 @@
 [submodule "mycroft-installer"]
 	path = mycroft-installer
 	url = git://github.com/mmarashan/skill-installer.git
+[submodule "ru-singing"]
+	path = ru-singing
+	url = git://github.com/einstalek/ru-singing.git
+[submodule "ru-hello-world"]
+	path = ru-hello-world
+	url = git://github.com/einstalek/ru-hello-world.git
