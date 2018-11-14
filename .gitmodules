@@ -142,3 +142,9 @@
 [submodule "skill-wiki"]
 	path = skill-wiki
 	url = git://github.com/einstalek/ru-wiki.git
+[submodule "mycroft-pairing"]
+	path = mycroft-pairing
+	url = git://github.com/mmarashan/skill-pairing.git
+[submodule "mycroft-personal"]
+	path = mycroft-personal
+	url = git://github.com/einstalek/ru-personal.git
